@@ -1,0 +1,15 @@
+[
+    {
+        "breeds": [],
+        "categories": [
+            {
+                "id": 2,
+                "name": "space"
+            }
+        ],
+        "id": "2v",
+        "url": "https://cdn2.thecatapi.com/images/2v.gif",
+        "width": 499,
+        "height": 374
+    }
+]
